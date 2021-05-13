@@ -1,0 +1,26 @@
+﻿@model DepartmentListViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Departments</h1>
+<a href="/Department/AddDepartment/" class="btn btn-primary">add new department</a>
+<div></div>
+<table class="table table-bordered">
+    <tr>
+        <th>Department Id</th>
+        <th>Department Name</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var item in Model.Departments)
+    {
+<tr>
+    <td>@item.DepId</td>
+    <td>@item.DepartmentName</td>
+    <td><a href="/Department/LoadDepartment/@item.DepId" class="btn btn-success">Update</a></td>
+    <td><a href="/Department/DeleteDepartment/@item.DepId" class="btn btn-danger">Delete</a></td>
+</tr>
+    }
+</table>
+

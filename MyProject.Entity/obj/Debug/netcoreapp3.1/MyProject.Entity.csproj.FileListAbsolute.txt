@@ -1,0 +1,12 @@
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\bin\Debug\netcoreapp3.1\MyProject.Entity.deps.json
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\bin\Debug\netcoreapp3.1\MyProject.Entity.dll
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\bin\Debug\netcoreapp3.1\MyProject.Entity.pdb
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\obj\Debug\netcoreapp3.1\MyProject.Entity.csprojAssemblyReference.cache
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\obj\Debug\netcoreapp3.1\MyProject.Entity.AssemblyInfoInputs.cache
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\obj\Debug\netcoreapp3.1\MyProject.Entity.AssemblyInfo.cs
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\obj\Debug\netcoreapp3.1\MyProject.Entity.dll
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\obj\Debug\netcoreapp3.1\MyProject.Entity.pdb
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\bin\Debug\netcoreapp3.1\MyProject.Entity.runtimeconfig.json
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\bin\Debug\netcoreapp3.1\MyProject.Entity.runtimeconfig.dev.json
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\obj\Debug\netcoreapp3.1\MyProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Entity\obj\Debug\netcoreapp3.1\MyProject.Entity.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+﻿@model MyProject.Entity.Concrete.Department
+@{
+    ViewData["Title"] = "LoadDepartment";
+}
+
+@using (Html.BeginForm("UpdateDepartment", "Department", FormMethod.Post))
+{
+    <div class="form-group">
+        <label>Department Id</label>
+        @Html.TextBoxFor(d => d.DepId, new { @class = "form-control" })
+        <br />
+        <label>Department Name</label>
+        @Html.TextBoxFor(dn => dn.DepartmentName, new { @class = "form-control" })
+    </div>
+    <div>
+        <button class="btn btn-warning">Update Department</button>
+    </div>
+}
+

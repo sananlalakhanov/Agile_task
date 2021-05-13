@@ -1,0 +1,38 @@
+﻿@model EmployeeListViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap-grid.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap-reboot.css" rel="stylesheet" />
+<h1>Employees List</h1>
+<a href="/Employee/AddEmployee" class="btn btn-primary">Add new Employee</a>
+<div></div>
+<table class="table table-bordered">
+    <tr>
+        <th>Employee Id</th>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Email</th>
+        <th>Mobile</th>
+        <th>Description</th>
+        <th>Department Id</th>
+        <th>Update</th>
+        <th>Delete</th>
+    </tr>
+    @foreach (var item in Model.Employees)
+    {
+<tr>
+    <td>@item.Id</td>
+    <td>@item.Name</td>
+    <td>@item.Surname</td>
+    <td>@item.Email</td>
+    <td>@item.Mobile</td>
+    <td>@item.Description</td>
+    <td>@item.DepId</td>
+    <td><a href="/Employee/LoadEmployee/@item.Id" class="btn btn-success">Update</a></td>
+    <td><a href="/Employee/DeleteEmployee/@item.Id" class="btn btn-danger/">Delete</a></td> 
+</tr>
+    }
+</table>
+

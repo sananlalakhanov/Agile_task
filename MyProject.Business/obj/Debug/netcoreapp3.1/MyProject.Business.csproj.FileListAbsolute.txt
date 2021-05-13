@@ -1,0 +1,17 @@
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\obj\Debug\netcoreapp3.1\MyProject.Business.csprojAssemblyReference.cache
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\obj\Debug\netcoreapp3.1\MyProject.Business.AssemblyInfoInputs.cache
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\obj\Debug\netcoreapp3.1\MyProject.Business.AssemblyInfo.cs
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\obj\Debug\netcoreapp3.1\MyProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\bin\Debug\netcoreapp3.1\MyProject.DataAccess.dll
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\bin\Debug\netcoreapp3.1\MyProject.Entity.dll
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\bin\Debug\netcoreapp3.1\MyProject.Entity.pdb
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\bin\Debug\netcoreapp3.1\MyProject.Business.deps.json
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\bin\Debug\netcoreapp3.1\MyProject.Business.runtimeconfig.json
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\bin\Debug\netcoreapp3.1\MyProject.Business.runtimeconfig.dev.json
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\bin\Debug\netcoreapp3.1\MyProject.Business.dll
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\bin\Debug\netcoreapp3.1\MyProject.Business.pdb
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\bin\Debug\netcoreapp3.1\MyProject.DataAccess.pdb
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\obj\Debug\netcoreapp3.1\MyProject.Business.csproj.CopyComplete
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\obj\Debug\netcoreapp3.1\MyProject.Business.dll
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\obj\Debug\netcoreapp3.1\MyProject.Business.pdb
+C:\Users\sanan\Desktop\Agile_Project\12.05.2021\MyProject\MyProject.Business\obj\Debug\netcoreapp3.1\MyProject.Business.genruntimeconfig.cache

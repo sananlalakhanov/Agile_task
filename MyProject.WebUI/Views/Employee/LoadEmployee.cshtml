@@ -1,0 +1,36 @@
+﻿@model MyProject.Entity.Concrete.Employee
+@{
+    ViewData["Title"] = "LoadEmployee";
+}
+
+
+
+
+@using (Html.BeginForm("UpdateEmployee", "Employee", FormMethod.Post))
+{
+    <div class="form-group">
+        <label>Employee Id</label>
+        @Html.TextBoxFor(e => e.Id, new { @class = "form-control" })
+        <br />
+        <label>Employee Name</label>
+        @Html.TextBoxFor(en => en.Name, new { @class = "form-control" })
+        <br />
+        <label>Employee Surname</label>
+        @Html.TextBoxFor(en => en.Surname, new { @class = "form-control" })
+        <br />
+        <label>Employee Email Adress</label>
+        @Html.TextBoxFor(en => en.Email, new { @class = "form-control" })
+        <br />
+        <label>Employee Mobile Number</label>
+        @Html.TextBoxFor(en => en.Mobile, new { @class = "form-control" })
+        <br />
+        <label>Department : </label>
+        @Html.DropDownListFor(e => e.DepId, (List<SelectListItem>)ViewBag.department, new { @class = "form-control" })
+        <br />
+        <label>Employee Description</label>
+        @Html.TextBoxFor(en => en.Description, new { @class = "form-control" })
+    </div>
+    <div>
+        <button class="btn btn-warning">Update Employee</button>
+    </div>
+}
